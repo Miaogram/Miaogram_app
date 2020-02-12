@@ -8,7 +8,7 @@ Kuo HuanHuan: t.me/KuoHuanHuan
 ## Download ~
 Github release: https://github.com/Miaogram/Miaogram_app/releases
 
-## Have a suggestion / question?
+## Have a suggestion/question?
 Welcome through here:  
-Support group： @miaogramsupport
-Service Email： mailto:miaogram@protonmail.com
+Support group： t.me/miaogramsupport
+Service Email： miaogram@protonmail.com
