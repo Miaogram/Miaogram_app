@@ -1,7 +1,7 @@
 # Miaogram_app
 Miaogram is a unofficial Telegram application. There are some cool features! (come out this summer vacation)
 
-## (中文)[https://GitHub.com/Miaogram/miaogram_app/Readch.md]
+## [中文](https://github.com/Miaogram/Miaogram_app/hahaha.md)
 
 ## Development and maintenance staff ~
 Grass Block: https://t.me/Grass_Block 
